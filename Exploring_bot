@@ -1,0 +1,72 @@
+<!doctype html>
+<html>
+<title>Exploring_bot_command</title>
+<head>
+<style>
+body {
+ background: linear-gradient(225deg, turquoise, white, turquoise);
+ }
+h1 {
+ font-family: Helvetica;
+ color: darkred;
+}
+p {
+ color: black;
+}
+em {
+ color: purple;
+}
+span {
+ color: darkred;
+}
+</style>
+<body>
+<h1><strong>Команды изучения телеграм ботов</strong></h1>
+<p><em>/iris</em> - вызывает информацию    о боте "ирис"<br/>
+<em>/iris_command</em> - вызывает список команд бота "ирис"<br/>
+<em>/iris_help</em> - вызывает помощь с работой в боте "ирис"<br/>
+<em>/toadbot</em> - вызывает информацию о боте "жабабот с жабами и лягушками"<br/>
+<em>/toadbot_command</em> - выводит список команд бота "жабабот с жабами и лягушками"<br/>
+<em>/toadbot_help</em> - выводит помощь работы с ботом "жабабот с жабами и лягушками"<br/>
+<em>/game_bot</em> - вызывает информацию о боте "игровой бот"<br/>
+<em>/game_bot_command</em> - вызывает список команд бота "игровой бот"<br/>
+<em>/bfg_bot</em> - вызывает информацию о боте "BFG"<br/>
+<em>/shmalala</em> - вызывает информацию о боте "шма"<br/>
+<em>/shmalala_command</em> - вызывает список команд бота "шма"<br/>
+<em>/shmalala_help</em> - вызывает помощь с работой в боте "шма"<br/>
+<em>/mafia_baku</em> - вызывает информацию о боте "мафия баку блэк"<br/>
+<em>/mafia_baku_command</em> - вызывает список команд бота "мафия баку блэк"<br/>
+<em>/mafia_baku_roles</em> - вызывает список ролей в боте "мафия баку блэк"<br/>
+<em>/tgenius_bot</em> - вызывает информацию о боте "тгениус"<br/>
+<em>/tgenius_command</em> - вызывает список команд бота "тгениус"<br/>
+<em>/tgenius_help</em> - вызывает помощь с работой в боте "тгениус"<br/>
+<em>/chatkeeper_bot</em> - вызывает информацию о боте "хранитель чата"<br/>
+<em>/chatkeeper_command</em> - вызывает список команд бота "хранитель чата"<br/>
+<em>/chatkeeper_help</em> - вызывает помощь с работой в боте "хранитель чата"<br/> 
+<em>/many_bot</em> - вызывает информацию о боте "мэнибот"<br/>
+<em>/manybot_command</em> - вызывает список команд бота "мэнибот"<br/>
+<em>/botfather</em> - вызывает информацию о боте "бот отец"<br/>
+<em>/botfather_command</em> - вызывает список команд бота "бот отец"<br/>
+<em>/botfather_management</em> - вызывает помощь с работой бота "бот отец"<br/>
+<em>/musify_bot</em> - вызывает информацию о боте "мьюзифай бот"<br/>
+<em>/musifybot_help</em> - вызывает помощь работой в боте "мьюсифай бот"<br/>
+<em>/musifybot_vk</em> - вызывает вк бота "мьюзифай бот"<br/>
+<em>/musifybot_github</em> - вызывает другую помощь работы в боте "мьюзифай бот"<br/>
+<em>/truemafiabot</em> - вызывает информацию о боте "Тру мафия бот" <br/>
+<em>/truemafiabot_command</em> - вызывает список команд бота "тру мафия бот" <br/>
+<em>/truemafiabot_help</em>- вызывает помощь с работой в боте "тру мафия бот" <br/>
+<em>/pollbot</em> - вызывает информацию о боте "поллбот" <br/>
+<em>/pollbot_command</em> - вызывает список команд бота "поллбот" <br/>
+<em>/pollbot_help</em> - вызывает помощь с работой в боте "поллбот" <br/>
+<em>/wolframbot</em> - вызывает информацию о боте "вольфрам бот" <br/>
+<em>/wolframbot_command</em> - вызывает список команд бота "вольфрам бот" <br/>
+<em>/soundcloud_bot</em> - вызывает информацию о боте "саунд бот"<br/>
+<em>/soundcloud_command</em> - вызывает информацию о боте "саунд бот" <br/>
+<em>/soundbot_help</em> - вызывает помощь с работой в боте "саунд бот" <br/>
+<em>/ytranslatebot</em> - вызывает информацию о боте "яндекс переводчик бот" <br/>
+<em>/ytranslate_command</em> - вызывает список команд бота "яндекс переводчик бот" <br/>
+<em>/flibustazbot</em> - вызывает информацию о боте "книги" <br/></p>
+<a href="https://t.me/Exploring_bot"><span>Перейти к основному боту </span></a><br/>
+<a href="https://t.me/help_izuzhbot"><span>Перейти к боту помощнику</span>></a><br/>
+</body>
+</html>
